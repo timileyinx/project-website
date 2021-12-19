@@ -1,0 +1,24 @@
+body {
+	background-color: #57C6B5;
+	text-align:center;
+	font-family: 'Manrope', sans-serif;
+
+}
+
+.image {
+    max-width:100%;
+    height:auto;
+}
+
+textarea, select, submit {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+   background-color: #B5BCB8;
+  color: white;
+}
+
+.fa {
+    float:right 
+}
